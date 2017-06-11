@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+Mini-projet : 
+
+
+1) Créer un tableau regroupant 10 éléments numériques et 10 éléments non-numériques qui seront des chaines de caractères représentant des nombres 
+
+2) Créer une chaine de caractères reprenant tous les éléments du tableau précédent, l'élément séparateur devra être un ';'
+
+3) Créer un tableau à partir de la chaine de caractères précédent ne comportant que des valeurs numériques
+
+4) Modifier le tableau de façon à ce que les valeurs soient dans l'ordre croissant (pas le droit d'utiliser de boucle pour mettre les éléments dans un ordre précis) A CONDITION QU'IL NE LE SOIT PAS DEJA dans ce cas, il faudra classer un nombre sur 2 dans l'ordre croissant et 1 nombre sur 2 l'ordre décroissant (indice pair : ordre croissant, indice impair ordre décroissant)
+
+Indice : vous pouvez créer des tableaux supplémentaires ne contenant que les valeurs des indices qui vous intéressent
+ 

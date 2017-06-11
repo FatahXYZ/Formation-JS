@@ -1,0 +1,18 @@
+Mini-projet : 
+
+Vous travaillez pour une entreprise en finance éco-responsable qui souhaite établir des modèles mathématiques de prix d'action tous linéaires (exemple simplifié). Il vous faudrait générer pour la journée une centaine de fonctions linéaires qui seront utilisés par les analystes de votre entreprise.
+
+
+1) Ecrire une fonction permettant de créer une fonction linéaire à partir d'un couple de paramètres (a,b).
+
+
+2) Générer 100 couples (a,b) de valeurs aléatoires (valeurs pas forcément entières, pas forcément inférieures à 1). Penser à utiliser Math.random() et Math.floor().
+
+
+3) Mettre les fonctions linéaires définies par les différents couples dans un tableau.
+
+
+4) Pour toutes les fonctions linéaires f, calculer les valeurs de f(i) pour tout i entier entre 1 et 10 et les mettre dans un tableau.
+
+
+5) Créer une fonction permettant d'afficher f(i) pour un triplet (a, b, i) donné. Penser à traiter les cas où a,b,i ne correspondent à aucune valeur correcte des fonctions.
